@@ -1,2 +1,2 @@
 # practice
-Practicing git stuff!!
+Practicing git things!!
